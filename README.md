@@ -18,7 +18,7 @@ The object of the study is startups going public with data obtained from public 
 
 
 ## Data description
-Over the last five years, more than 2,000 Initial Public Offerings have taken place in the U.S. stock market, indicating a high level of activity in the primary capital market during this period. In order to obtain structured and complete data on all IPOs in the U.S., it is required to get paid access to a professional database, for example, on the StockAnalysis platform [1], which provides information on IPO dates, company characteristics, offering prices, amounts of capital raised and other relevant information.
+Over the last five years, more than 2,000 Initial Public Offerings have taken place in the U.S. stock market, indicating a high level of activity in the primary capital market during this period. In order to obtain structured and complete data on all IPOs in the U.S., it is required to get paid access to a professional database, for example, on the StockAnalysis.com, which provides information on IPO dates, company characteristics, offering prices, amounts of capital raised and other relevant information.
 
 There are such columns in the dataset : 'IPO Date', 'Symbol', 'Company Name', 'IPO Price', 'Return', 'Market Cap', 'Shares Offered', 'Deal Size', 'Open Price', 'Return (Open)', 'Exchange', 'Is SPAC', 'Sector', 'Industry', 'Country', 'Employees', 'Volume', 'Rel. Volume', 'Close', '% Change', 'Premkt. Price', 'Premkt. Chg', 'Premkt. Chg%', 'Ent. Value', 'PE Ratio', 'Forward PE', 'PS Ratio', 'PB Ratio', 'P/FCF', 'ROE', 'ROA', 'ROIC', 'Rating', 'Analysts', 'Price Target', 'PT Upside (%)', 'Div. ($)', 'Div. Yield', 'Div. Growth', 'Payout Freq.', 'Payout Ratio', etc.
 
